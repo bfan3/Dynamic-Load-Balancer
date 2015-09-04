@@ -1,6 +1,6 @@
 
 ▽
-#authoer Bowen Fan
+#authoer Bowen Fan, Chen Wu
 
 import sys
 import collections
